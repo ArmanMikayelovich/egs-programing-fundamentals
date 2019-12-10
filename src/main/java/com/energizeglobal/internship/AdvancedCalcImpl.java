@@ -1,6 +1,6 @@
 package com.energizeglobal.internship;
 
-public class AdvancedBasicCalc extends BasicCalc {
+public class AdvancedCalcImpl extends BasicCalcImpl {
 
     @Override
     public float computePercent(double number, float percent) {

@@ -1,6 +1,6 @@
 package com.energizeglobal.internship;
 
-public class BasicCalc implements Calculator {
+public class BasicCalcImpl implements Calculator {
 
     protected void isArgumentsEnough(long[] args) {
         if (args.length < 2) {
